@@ -1,4 +1,4 @@
-module github.com/cosmtrek/air
+module github.com/silverwind/air
 
 go 1.17
 
